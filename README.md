@@ -1,6 +1,7 @@
 - 👋 Ola, eu sou @RafaelPRossi
 - 👀 Estou interessado em aprender sobre programação.
-- 🌱 Estou atualmente cursando, técnico em desenvolvimento de sistemas no Senai.
+- 🌱 Técnico em desenvolvimento de sistemas no SENAI.
+- 🌱 Atualmente cursando análise e desenvolvimento de sistemas na FATEC.
 - 📫 rafael.pimenta.rossi@gmail.com
 
 
